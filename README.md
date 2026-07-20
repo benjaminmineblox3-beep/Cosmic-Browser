@@ -1,2 +1,3 @@
 # Cosmic-Browser
 this browser that i tried to make still doesn't work, i published it with a source code because i still need to fix it but i am very bad at fixing errors so whoever can fix it and post it on github wont get copyrights, its kind of a simple error but i still dont know how to fix...
+also dont forget about requirements.txt
